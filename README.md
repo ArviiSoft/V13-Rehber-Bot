@@ -18,11 +18,11 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/v13-rehber-botu-109923
 #
 
 # 📞・İLETİŞİM
-💙・**Discord:** arvis.
+💙・**Discord:** arviis.
 
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
-💜・**Instagram:** [Tıkla](https://www.instagram.com/arvis_here/)
+💜・**Instagram:** [Tıkla](https://www.instagram.com/al.kann0/)
 #
 #
 
