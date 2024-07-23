@@ -1,0 +1,35 @@
+{
+  "name": "arviis.-v13-rehbet-bot",
+  "version": "1.0.0",
+  "description": "arviis. - V13 Rehber Bot",
+  "main": "arvis.js",
+  "scripts": {
+    "arvis:dev": "nodemon arvis.js",
+    "test": "node arvis.js"
+    },
+
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ArviiSoft/V13-Rehber-Botu.git"
+    },
+
+    "author": "arviis.",
+    "license": "MIT",
+
+    "bugs": {
+      "url": "https://github.com/ArviiSoft/V13-Rehber-Botu/issues"
+    },
+
+"homepage": "https://github.com/ArviiSoft/V13-Rehber-Botu#readme",
+"dependencies": {
+    "axios": "^0.27.2",
+    "discord-modals": "^1.3.7",
+    "discord.js": "^13.0.1",
+    "nodemon": "^2.0.20",
+    "quick.db": "^7.1.3"
+  },
+
+  "devDependencies": {
+    "node": "^16.13.2"
+  }
+}
