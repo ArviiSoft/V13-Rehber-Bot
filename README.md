@@ -5,6 +5,8 @@
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/v13-rehber-botu-1790704.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/v13-rehber-botu-116413
 # 
 #
 
